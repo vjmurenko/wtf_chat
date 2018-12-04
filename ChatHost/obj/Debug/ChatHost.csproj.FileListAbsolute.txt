@@ -1,0 +1,22 @@
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\bin\Debug\wtf_chat.dll
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\bin\Debug\wtf_chat.pdb
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\bin\Debug\wtf_chat.dll.config
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\obj\Debug\ChatHost.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\Vladimir\source\repos\wtf_chat\ChatHost\obj\Debug\ChatHost.pdb
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\bin\Debug\ChatHost.exe.config
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\bin\Debug\ChatHost.exe
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\bin\Debug\ChatHost.pdb
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\bin\Debug\wtf_chat.dll
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\bin\Debug\wtf_chat.pdb
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\bin\Debug\wtf_chat.dll.config
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\obj\Debug\ChatHost.csprojAssemblyReference.cache
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\obj\Debug\ChatHost.exe
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatHost\obj\Debug\ChatHost.pdb

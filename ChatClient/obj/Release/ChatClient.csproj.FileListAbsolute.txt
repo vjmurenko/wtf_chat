@@ -1,0 +1,15 @@
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\bin\Release\ChatClient.exe.config
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\bin\Release\ChatClient.exe
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\bin\Release\ChatClient.pdb
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\ChatClient.csprojAssemblyReference.cache
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\MainWindow.g.cs
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\App.g.cs
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\ChatClient_MarkupCompile.cache
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\ChatClient_MarkupCompile.lref
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\MainWindow.baml
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\ChatClient.g.resources
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\ChatClient.Properties.Resources.resources
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\ChatClient.csproj.GenerateResource.cache
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\ChatClient.csproj.CoreCompileInputs.cache
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\ChatClient.exe
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\ChatClient\obj\Release\ChatClient.pdb

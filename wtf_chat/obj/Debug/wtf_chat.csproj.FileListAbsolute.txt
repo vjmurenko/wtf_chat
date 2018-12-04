@@ -1,0 +1,14 @@
+C:\Users\Vladimir\source\repos\wtf_chat\wtf_chat\bin\Debug\wtf_chat.dll.config
+C:\Users\Vladimir\source\repos\wtf_chat\wtf_chat\bin\Debug\wtf_chat.dll
+C:\Users\Vladimir\source\repos\wtf_chat\wtf_chat\bin\Debug\wtf_chat.pdb
+C:\Users\Vladimir\source\repos\wtf_chat\wtf_chat\obj\Debug\wtf_chat.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\wtf_chat\wtf_chat\obj\Debug\wtf_chat.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\wtf_chat\wtf_chat\obj\Debug\wtf_chat.dll
+C:\Users\Vladimir\source\repos\wtf_chat\wtf_chat\obj\Debug\wtf_chat.pdb
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\wtf_chat\bin\Debug\wtf_chat.dll.config
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\wtf_chat\bin\Debug\wtf_chat.dll
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\wtf_chat\bin\Debug\wtf_chat.pdb
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\wtf_chat\obj\Debug\wtf_chat.csprojAssemblyReference.cache
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\wtf_chat\obj\Debug\wtf_chat.csproj.CoreCompileInputs.cache
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\wtf_chat\obj\Debug\wtf_chat.dll
+D:\windows 2018\visual studio 2017 projects\source\repos\wtf_chat\wtf_chat\obj\Debug\wtf_chat.pdb

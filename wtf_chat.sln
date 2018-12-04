@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wtf_chat", "wtf_chat\wtf_chat.csproj", "{3A80211F-F3D2-430A-B921-9B332068A682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHost", "ChatHost\ChatHost.csproj", "{D91299BC-3DD3-458D-BD31-E700A5917BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{38DFF3F0-C159-45E4-94A0-9FF459009754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A80211F-F3D2-430A-B921-9B332068A682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A80211F-F3D2-430A-B921-9B332068A682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A80211F-F3D2-430A-B921-9B332068A682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A80211F-F3D2-430A-B921-9B332068A682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91299BC-3DD3-458D-BD31-E700A5917BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91299BC-3DD3-458D-BD31-E700A5917BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91299BC-3DD3-458D-BD31-E700A5917BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91299BC-3DD3-458D-BD31-E700A5917BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DFF3F0-C159-45E4-94A0-9FF459009754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DFF3F0-C159-45E4-94A0-9FF459009754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DFF3F0-C159-45E4-94A0-9FF459009754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DFF3F0-C159-45E4-94A0-9FF459009754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8275CB4E-2D35-401B-8379-A9FCEBDF143D}
+	EndGlobalSection
+EndGlobal
